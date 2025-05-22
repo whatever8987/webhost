@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Restaurant",
+        "info": "https://example.com/restaurant-info"
+    },
+    {
+        "name": "Retail",
+        "info": "https://example.com/retail-info"
+    },
+    {
+        "name": "Service",
+        "info": "https://example.com/service-info"
+    }
+] 

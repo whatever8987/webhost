@@ -1,0 +1,70 @@
+{
+  "overview": {
+    "title": "Bảng điều khiển",
+    "welcome": "Xin chào, {{name}}!",
+    "stats": {
+      "title": "Tổng quan",
+      "totalSalons": "Tổng số Salon",
+      "sampleSites": "Trang mẫu",
+      "leads": "Khách hàng tiềm năng",
+      "conversions": "Chuyển đổi",
+      "activeSubscriptions": "Đăng ký hoạt động"
+    }
+  },
+  "salon": {
+    "title": "Salon của bạn",
+    "noSalon": "Bạn chưa có website salon",
+    "createSalon": "Tạo website Salon",
+    "editSalon": "Chỉnh sửa website Salon",
+    "previewSalon": "Xem trước website",
+    "publishSalon": "Xuất bản website",
+    "domainSettings": "Cài đặt tên miền",
+    "managementTitle": "Quản lý website",
+    "informationTitle": "Thông tin Salon",
+    "servicesTitle": "Quản lý dịch vụ",
+    "galleryTitle": "Bộ sưu tập ảnh"
+  },
+  "templates": {
+    "title": "Mẫu website",
+    "subtitle": "Chọn mẫu cho website salon của bạn",
+    "chooseTemplate": "Chọn mẫu",
+    "previewTemplate": "Xem trước mẫu",
+    "templateDetails": "Chi tiết mẫu",
+    "colorOptions": "Tùy chọn màu sắc",
+    "layoutOptions": "Tùy chọn bố cục"
+  },
+  "subscription": {
+    "title": "Đăng ký",
+    "plan": "Gói hiện tại",
+    "status": "Trạng thái",
+    "nextBilling": "Ngày thanh toán tiếp theo",
+    "paymentMethod": "Phương thức thanh toán",
+    "updatePayment": "Cập nhật phương thức thanh toán",
+    "changePlan": "Thay đổi gói",
+    "cancelSubscription": "Hủy đăng ký",
+    "renewSubscription": "Gia hạn đăng ký",
+    "trialEnding": "Dùng thử của bạn kết thúc trong {{days}} ngày",
+    "noSubscription": "Bạn chưa có đăng ký hoạt động"
+  },
+  "leads": {
+    "title": "Quản lý khách hàng tiềm năng",
+    "newLeads": "Khách hàng tiềm năng mới",
+    "contacted": "Đã liên hệ",
+    "converted": "Đã chuyển đổi",
+    "rejected": "Đã từ chối",
+    "noLeads": "Không tìm thấy khách hàng tiềm năng",
+    "contactLead": "Liên hệ khách hàng",
+    "viewDetails": "Xem chi tiết",
+    "leadSource": "Nguồn",
+    "leadDate": "Ngày"
+  },
+  "settings": {
+    "title": "Cài đặt tài khoản",
+    "personalInfo": "Thông tin cá nhân",
+    "changePassword": "Đổi mật khẩu",
+    "notifications": "Thông báo",
+    "language": "Ngôn ngữ",
+    "deleteAccount": "Xóa tài khoản",
+    "saveChanges": "Lưu thay đổi"
+  }
+}

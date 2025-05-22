@@ -1,0 +1,70 @@
+{
+  "overview": {
+    "title": "Dashboard",
+    "welcome": "Welcome, {{name}}!",
+    "stats": {
+      "title": "Overview",
+      "totalSalons": "Total Salons",
+      "sampleSites": "Sample Sites",
+      "leads": "Leads",
+      "conversions": "Conversions",
+      "activeSubscriptions": "Active Subscriptions"
+    }
+  },
+  "salon": {
+    "title": "Your Salon",
+    "noSalon": "You don't have a salon website yet",
+    "createSalon": "Create Salon Website",
+    "editSalon": "Edit Salon Website",
+    "previewSalon": "Preview Website",
+    "publishSalon": "Publish Website",
+    "domainSettings": "Domain Settings",
+    "managementTitle": "Website Management",
+    "informationTitle": "Salon Information",
+    "servicesTitle": "Services Management",
+    "galleryTitle": "Gallery"
+  },
+  "templates": {
+    "title": "Website Templates",
+    "subtitle": "Choose a template for your salon website",
+    "chooseTemplate": "Choose Template",
+    "previewTemplate": "Preview Template",
+    "templateDetails": "Template Details",
+    "colorOptions": "Color Options",
+    "layoutOptions": "Layout Options"
+  },
+  "subscription": {
+    "title": "Subscription",
+    "plan": "Current Plan",
+    "status": "Status",
+    "nextBilling": "Next Billing Date",
+    "paymentMethod": "Payment Method",
+    "updatePayment": "Update Payment Method",
+    "changePlan": "Change Plan",
+    "cancelSubscription": "Cancel Subscription",
+    "renewSubscription": "Renew Subscription",
+    "trialEnding": "Your trial ends in {{days}} days",
+    "noSubscription": "You don't have an active subscription"
+  },
+  "leads": {
+    "title": "Leads Management",
+    "newLeads": "New Leads",
+    "contacted": "Contacted",
+    "converted": "Converted",
+    "rejected": "Rejected",
+    "noLeads": "No leads found",
+    "contactLead": "Contact Lead",
+    "viewDetails": "View Details",
+    "leadSource": "Source",
+    "leadDate": "Date"
+  },
+  "settings": {
+    "title": "Account Settings",
+    "personalInfo": "Personal Information",
+    "changePassword": "Change Password",
+    "notifications": "Notifications",
+    "language": "Language",
+    "deleteAccount": "Delete Account",
+    "saveChanges": "Save Changes"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "pageTitle": "Blog",
+  "recentPosts": "Bài viết gần đây",
+  "popularPosts": "Bài viết phổ biến",
+  "categories": "Danh mục",
+  "tags": "Thẻ",
+  "search": "Tìm kiếm blog",
+  "readMore": "Đọc thêm",
+  "publishedOn": "Đăng vào ngày",
+  "author": "Tác giả",
+  "comments": "Bình luận",
+  "commentForm": {
+    "leaveComment": "Để lại bình luận",
+    "yourName": "Tên của bạn",
+    "yourEmail": "Email của bạn",
+    "yourComment": "Bình luận của bạn",
+    "submit": "Gửi bình luận"
+  },
+  "share": "Chia sẻ bài viết này",
+  "relatedPosts": "Bài viết liên quan",
+  "noPostsFound": "Không tìm thấy bài viết",
+  "loadMore": "Tải thêm",
+  "backToBlog": "Quay lại Blog",
+  "subscribeTitle": "Đăng ký nhận bản tin",
+  "subscribeInfo": "Cập nhật tin tức và bài viết mới nhất của chúng tôi",
+  "subscribe": "Đăng ký",
+  "yourEmailAddress": "Địa chỉ email của bạn",
+  "placeholder": {
+    "search": "Tìm kiếm bài viết...",
+    "comment": "Viết bình luận của bạn ở đây..."
+  },
+  "categoriesTitle": "Duyệt theo danh mục",
+  "allPosts": "Tất cả bài viết",
+  "salonTips": "Mẹo salon",
+  "nailArt": "Nghệ thuật làm móng",
+  "businessAdvice": "Lời khuyên kinh doanh",
+  "trends": "Xu hướng ngành",
+  "tutorials": "Hướng dẫn",
+  "marketing": "Marketing",
+  "customerService": "Dịch vụ khách hàng"
+}

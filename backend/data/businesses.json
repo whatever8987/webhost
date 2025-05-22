@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Joe's Pizza",
+    "slug": "joes-pizza",
+    "description": "Authentic New York style pizza since 1985",
+    "url": "https://joespizza.example.com",
+    "type": 1,
+    "contact_email": "info@joespizza.example.com",
+    "contact_phone": "555-0123",
+    "address": "123 Main St, New York, NY 10001",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
+  },
+  {
+    "name": "Fashion Forward",
+    "slug": "fashion-forward",
+    "description": "Trendy clothing and accessories for all ages",
+    "url": "https://fashionforward.example.com",
+    "type": 2,
+    "contact_email": "shop@fashionforward.example.com",
+    "contact_phone": "555-0124",
+    "address": "456 Oak Ave, New York, NY 10002",
+    "image": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04"
+  },
+  {
+    "name": "Tech Solutions",
+    "slug": "tech-solutions",
+    "description": "Professional IT services and computer repair",
+    "url": "https://techsolutions.example.com",
+    "type": 3,
+    "contact_email": "support@techsolutions.example.com",
+    "contact_phone": "555-0125",
+    "address": "789 Tech Blvd, New York, NY 10003",
+    "image": "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0"
+  }
+] 

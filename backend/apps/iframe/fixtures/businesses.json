@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Joe's Pizza",
+        "description": "Best pizza in town",
+        "url": "https://joespizza.example.com",
+        "type": 1
+    },
+    {
+        "name": "Fashion Store",
+        "description": "Trendy clothing and accessories",
+        "url": "https://fashionstore.example.com",
+        "type": 2
+    },
+    {
+        "name": "Tech Support",
+        "description": "Professional IT services",
+        "url": "https://techsupport.example.com",
+        "type": 3
+    }
+] 

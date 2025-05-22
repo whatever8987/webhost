@@ -1,0 +1,49 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Sửa",
+    "back": "Quay lại",
+    "create": "Tạo"
+  },
+  "chat": {
+    "title": "Trợ lý SalonSite",
+    "subtitle": "Chúng tôi thường trả lời trong vài phút",
+    "placeholder": "Nhập tin nhắn của bạn...",
+    "typing": "Bot đang nhập...",
+    "commonQuestions": "Câu hỏi thường gặp:",
+    "welcome": "Xin chào! 👋 Tôi là trợ lý SalonSite. Tôi có thể giúp gì cho bạn hôm nay?",
+    "questions": {
+      "createWebsite": "Làm thế nào để tạo trang web salon?",
+      "pricing": "Các gói giá của bạn là gì?",
+      "trial": "Thời gian dùng thử miễn phí là bao lâu?",
+      "customize": "Tôi có thể tùy chỉnh trang web của mình không?"
+    }
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "dashboard": "Bảng điều khiển",
+    "news": "Tin tức",
+    "pricing": "Bảng giá",
+    "contact": "Liên hệ",
+    "open_main_menu": "Mở menu chính"
+  },
+  "auth": {
+    "sign_in": "Đăng nhập",
+    "sign_up": "Đăng ký",
+    "log_out": "Đăng xuất"
+  },
+  "account": {
+    "settings": "Cài đặt tài khoản"
+  },
+  "dashboard": {
+    "my_website": "Trang web của tôi"
+  },
+  "greeting": {
+    "welcome": "Chào mừng"
+  }
+} 

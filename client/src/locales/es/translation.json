@@ -1,0 +1,49 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Atrás",
+    "create": "Crear"
+  },
+  "chat": {
+    "title": "Asistente SalonSite",
+    "subtitle": "Normalmente respondemos en unos minutos",
+    "placeholder": "Escribe tu mensaje...",
+    "typing": "El bot está escribiendo...",
+    "commonQuestions": "Preguntas comunes:",
+    "welcome": "¡Hola! 👋 Soy tu asistente SalonSite. ¿Cómo puedo ayudarte hoy?",
+    "questions": {
+      "createWebsite": "¿Cómo creo un sitio web para salón?",
+      "pricing": "¿Cuáles son sus planes de precios?",
+      "trial": "¿Cuánto dura la prueba gratuita?",
+      "customize": "¿Puedo personalizar mi sitio web?"
+    }
+  },
+  "navigation": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "news": "Noticias",
+    "pricing": "Precios",
+    "contact": "Contacto",
+    "open_main_menu": "Abrir menú principal"
+  },
+  "auth": {
+    "sign_in": "Iniciar Sesión",
+    "sign_up": "Registrarse",
+    "log_out": "Cerrar Sesión"
+  },
+  "account": {
+    "settings": "Configuración de la Cuenta"
+  },
+  "dashboard": {
+    "my_website": "Mi Sitio Web"
+  },
+  "greeting": {
+    "welcome": "Bienvenido"
+  }
+} 

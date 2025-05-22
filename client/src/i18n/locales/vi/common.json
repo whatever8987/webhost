@@ -1,0 +1,60 @@
+{
+  "navigation": {
+    "home": "Trang chủ",
+    "dashboard": "Bảng điều khiển",
+    "templates": "Mẫu website",
+    "pricing": "Bảng giá",
+    "blog": "Blog",
+    "contact": "Liên hệ",
+    "news": "Tin tức",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "account": "Tài khoản",
+    "language": "Ngôn ngữ"
+  },
+  "actions": {
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "view": "Xem",
+    "create": "Tạo mới",
+    "submit": "Gửi",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "preview": "Xem trước",
+    "back": "Quay lại",
+    "next": "Tiếp theo"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "success": "Thành công!",
+    "noResults": "Không tìm thấy kết quả",
+    "required": "Bắt buộc",
+    "optional": "Tùy chọn",
+    "name": "Tên",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "phone": "Điện thoại",
+    "address": "Địa chỉ",
+    "city": "Thành phố",
+    "state": "Tỉnh/Thành",
+    "country": "Quốc gia",
+    "zipCode": "Mã bưu điện",
+    "viewing": "Đang xem",
+    "visitWebsite": "Truy cập trang web",
+    "showInfo": "Hiện thông tin"
+  },
+  "business": {
+    "claim": "Nhận quyền sở hữu",
+    "claimed": "Đã được nhận quyền sở hữu",
+    "claimSuccess": "Nhận quyền sở hữu thành công!",
+    "claimError": "Không thể nhận quyền sở hữu. Vui lòng thử lại sau."
+  },
+  "languageSelector": {
+    "english": "Tiếng Anh",
+    "vietnamese": "Tiếng Việt"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "pageTitle": "Blog",
+  "recentPosts": "Recent Posts",
+  "popularPosts": "Popular Posts",
+  "categories": "Categories",
+  "tags": "Tags",
+  "search": "Search Blog",
+  "readMore": "Read More",
+  "publishedOn": "Published on",
+  "author": "Author",
+  "comments": "Comments",
+  "commentForm": {
+    "leaveComment": "Leave a Comment",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourComment": "Your Comment",
+    "submit": "Submit Comment"
+  },
+  "share": "Share This Post",
+  "relatedPosts": "Related Posts",
+  "noPostsFound": "No posts found",
+  "loadMore": "Load More",
+  "backToBlog": "Back to Blog",
+  "subscribeTitle": "Subscribe to Our Newsletter",
+  "subscribeInfo": "Stay updated with our latest news and posts",
+  "subscribe": "Subscribe",
+  "yourEmailAddress": "Your Email Address",
+  "placeholder": {
+    "search": "Search for posts...",
+    "comment": "Write your comment here..."
+  },
+  "categoriesTitle": "Browse by Category",
+  "allPosts": "All Posts",
+  "salonTips": "Salon Tips",
+  "nailArt": "Nail Art",
+  "businessAdvice": "Business Advice",
+  "trends": "Industry Trends",
+  "tutorials": "Tutorials",
+  "marketing": "Marketing",
+  "customerService": "Customer Service"
+}
